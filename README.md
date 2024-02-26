@@ -14,8 +14,8 @@ This code simulates real-time spectrum sensing for a cognitive radio system usin
 
 **Instructions:**
 
-1. **Save the code:** Save the provided code as a `.m` file (e.g., `spectrum_sensing.m`).
+1. **Save the code:** Save the provided code as a `.m` file (e.g., `cognitiveradio.m`).
 2. **Run the code:** Open MATLAB and navigate to the directory containing the saved file. Execute the script using the `run` command:
 
    ```matlab
-   run spectrum_sensing.m
+   run cognitiveradio.m
